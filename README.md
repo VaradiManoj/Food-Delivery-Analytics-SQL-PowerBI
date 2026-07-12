@@ -28,7 +28,6 @@ The project contains five tables:
 
 ## 📊 Dashboard Preview
 
-> **Add your dashboard screenshot here after uploading it to the repository.**
 
 ![Dashboard](Food_Delivery_Dashboard.JPG)
 
