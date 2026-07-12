@@ -30,7 +30,7 @@ The project contains five tables:
 
 > **Add your dashboard screenshot here after uploading it to the repository.**
 
-![Dashboard Preview](Dashboard%20Screenshots/Food%20Delivery%20Dashboard.png)
+![Dashboard Preview](Dashboard%20Screenshots/Food_Delivery_Dashboard)
 
 ---
 
